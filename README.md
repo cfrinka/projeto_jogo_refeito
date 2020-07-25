@@ -1,2 +1,10 @@
 # projeto_jogo_refeito
-refazendo pois deu ruim
+aprendizados:
+
+eventListener
+event.key
+canvas
+renderScreen
+popular elementos html por javascript
+manipulação de objetos
+
